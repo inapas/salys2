@@ -1,0 +1,41 @@
+.virsus {
+   margin-top: 2rem;
+   margin-bottom: 1rem;
+
+}
+
+.inp{
+    background-color: cadetblue;
+    border: none;
+    outline: none;
+    color: wheat;
+    padding: 12px;
+    border-radius: 5px;
+}
+span{
+    font-weight: 500;
+}
+.country{
+    display: flex;
+    
+}
+
+.back{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.cntr{
+    text-align: center;
+    width: 100vw;
+  
+}
